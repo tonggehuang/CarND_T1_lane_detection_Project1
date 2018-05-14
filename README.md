@@ -2,4 +2,4 @@
 
 ## Reflection
 
-### The writeup Reflection is showed in Jupyter Notebook.
+### The writeup Reflection is showed in Tongge_Huang_CarND_Term1_Project1.ipynb.
